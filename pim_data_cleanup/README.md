@@ -1,2 +1,2 @@
-# pim_automation
-A collection of python scripts using Selenium WebDriver to automate several tasks in a web-based product information management (PIM) system.
+# PIM Data Cleanup Automation Program
+A program built using Selenium WebDriver in Python to automate data cleanup activities which must be performed through the web-based UI of a product information management (PIM) system.
