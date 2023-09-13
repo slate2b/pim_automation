@@ -3285,7 +3285,7 @@ def print_activity_summary():
     print("Total Products Corrected: " + str(items_fixed_counter))
 
     logging.info(
-        "\n\n                               Fixed " + str(errors_fixed_counter))
+        "\n\n                               Total Errors Fixed:      " + str(errors_fixed_counter))
     print("Total Errors Corrected:   " + str(errors_fixed_counter) + "\n")
     print("*********************************\n")
 
