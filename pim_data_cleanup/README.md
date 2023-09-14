@@ -11,6 +11,10 @@ Unfortunately, due to system restrictions, performing data cleanup on product re
 
 This PIM Data Cleanup program was created to solve those problems.
 
+<br>
+
+https://github.com/slate2b/pim_automation_w_selenium/assets/88697660/b4621d83-b2ae-47cc-bd17-f3e26347001d
+
 <h2>Functionality</h2>
 
 The PIM Data Cleanup program automatically cycles through product records, identifies validation errors, dynamically calculates valid values, and then updates the product records, thereby clearing the validation errors and removing the major roadblocks to updating product records in the system.
